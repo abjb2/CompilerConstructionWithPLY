@@ -1,0 +1,32 @@
+GROUP 17
+P15/1894/2020 Emmanuel Mbithi Muthiani 
+P15/1915/2020 Mugo Staicy Nelima
+P15/137032/2019 Hamud Abdulrahman Abeid 
+
+
+a = 3; 
+b = 1;
+
+if (a > b) { 
+
+	c = (a + b) - 6 / 2 * 1 ;
+	while(c < 10){
+		print(c);
+		c = c + 1;
+
+	}
+
+}
+
+else{
+	
+	a = a + b;
+}
+
+
+//
+Keywords: if, else, while, print
+Operators: + , - , * , / , < , > 
+Symbols: = ( , ) , { , } , ;
+Identifiers: a, b, c
+Numbers: "3" "1" "6" "2" "10"
